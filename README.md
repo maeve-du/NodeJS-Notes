@@ -1,4 +1,6 @@
 # Node.js Notes
+## Introduction
+This repo is where I put my Node.js study notes and homework assignments.
 
 <details open>
   <summary>Table of Contents</summary>
@@ -9,6 +11,7 @@
     - [Examples](#examples)
 
 </details>
+
 
 ## 2022.02.14 - Node.js Part 1 fs Example
 This is a simple example of using the `fs` module from Node.js to check whether a file exists, is readable, is writable, and is executable.
